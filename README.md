@@ -1,4 +1,4 @@
-# [Teenage engineering op-z](https://teenage.engineering/guides/op-z/midi) MIDI map for [M-VAVE SMK-25](https://www.amazon.com/M-WAVE-Controller-Bluetooth-Professional-Production/dp/B0B66SX286) Wireless MIDI-controller
+# [M-VAVE SMK-25](https://www.amazon.com/M-WAVE-Controller-Bluetooth-Professional-Production/dp/B0B66SX286) Wireless MIDI-controller presets for [Teenage engineering op-z](https://teenage.engineering/guides/op-z/midi)
 
 ![](https://tsoop-ru.github.io/op-z-m-vave-smk-25-midi-preset/m-vave.png)
 
