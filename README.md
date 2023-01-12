@@ -14,6 +14,8 @@ You can use the [CubeSuite iOS app](https://apps.apple.com/us/app/cubesuite/id15
 
 ## The 8 channel preset
 
+## [DOWNLOAD IT NOW](https://tsoop-ru.github.io/op-z-m-vave-smk-25-midi-preset/op-z-m-vave-8-channels.mkc)
+
 SMK-25 has 8 easily switchable presets that encompass all the controls, including the keys. It makes it quite versatile, but it still can't cover all the 16 MIDI channels of the op-z. But it uses only 8 channels for actual sounds. And SMK-25 has 2 pages per preset, so we can cover pretty much all the sonic possibilities of the op-z.
 
 On each page keybed controls the corresponding notes. Knobs correspond to op-z 16 knobs precisely. Pads functions differ for each layer and are chosen arbitrarily.
@@ -36,4 +38,4 @@ Pads represent the performance and tape effects suitable for the channel.
 7. Arp
 8. Chords
 
-## Please, star the repo if you find it useful!
+## More presets comming. Please, star the repo if you find it useful!
