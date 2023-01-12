@@ -1,5 +1,7 @@
 # [Teenage engineering op-z](https://teenage.engineering/guides/op-z/midi) MIDI map for [M-VAVE SMK-25](https://www.amazon.com/M-WAVE-Controller-Bluetooth-Professional-Production/dp/B0B66SX286) Wireless MIDI-controller
 
+![](https://github.com/tsoop-ru/op-z-m-vave-smk-25-midi-preset/blob/fe12a977b574f69724e68dcfa929bcf2325e170b/m-vave.png)
+
 A BLE MIDI controller and a MIDI sequencer can offer a fully wireless setup when used together. One such example is the M-VAVE SMK-25 controller, which is known for its budget-friendly price point and easy connectivity.
 
 The op-z sequencer is also able to connect wirelessly to BLE MIDI capable devices such as laptops, tablets, and phones. This allows for multiple instruments or controllers to be connected and used in the composition process, as well as the ability to route and record MIDI and audio signals when connected directly to a relay device. This setup provides a convenient and flexible option for musicians.
