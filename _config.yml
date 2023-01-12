@@ -3,5 +3,3 @@ desctiption: A configuration file to import into the controller via the CubeSuit
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
-github:
-  zip_url: https://tsoop-ru.github.io/op-z-m-vave-smk-25-midi-preset/op-z-m-vave-8-channels.mkc
