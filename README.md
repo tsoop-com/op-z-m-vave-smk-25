@@ -1,6 +1,6 @@
 # [Teenage engineering op-z](https://teenage.engineering/guides/op-z/midi) MIDI map for [M-VAVE SMK-25](https://www.amazon.com/M-WAVE-Controller-Bluetooth-Professional-Production/dp/B0B66SX286) Wireless MIDI-controller
 
-![](./m-vave.png)
+![](https://tsoop-ru.github.io/op-z-m-vave-smk-25-midi-preset/m-vave.png)
 
 A BLE MIDI controller and a MIDI sequencer can offer a fully wireless setup when used together. One such example is the M-VAVE SMK-25 controller, which is known for its budget-friendly price point and easy connectivity.
 
@@ -35,3 +35,5 @@ Pads represent the performance and tape effects suitable for the channel.
 6. Lead
 7. Arp
 8. Chords
+
+## Please, star the repo if you find it useful!
