@@ -1,11 +1,3 @@
-## 2024 UPDATE
-
-![](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/M-VAVE-SMK-25-II-MIDI-Control-Keyboard-Mini-USB-Pad-25-Key-Usb-Midi-Controller.webp)
-
-## [M-VAVE SMK-25 mkII - op-z preset](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/op-z.mkcII)
-
-
-
 ![](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/m-vave.png)
 
 # [M-VAVE SMK-25](https://www.amazon.com/M-WAVE-Controller-Bluetooth-Professional-Production/dp/B0B66SX286) Wireless MIDI-controller presets for [teenage engineering op-z](https://teenage.engineering/guides/op-z/midi)
@@ -47,4 +39,10 @@ Pads represent the performance and tape effects suitable for the channel.
 7. Arp
 8. Chords
 
-## More presets comming. Please, star the repo if you find it useful!
+## More presets coming. Please, star the repo if you find it useful!
+
+## 2024 UPDATE
+
+![](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/M-VAVE-SMK-25-II-MIDI-Control-Keyboard-Mini-USB-Pad-25-Key-Usb-Midi-Controller.webp)
+
+## [M-VAVE SMK-25 mkII - op-z preset](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/op-z.mkcII)
