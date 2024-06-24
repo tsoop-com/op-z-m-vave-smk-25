@@ -1,6 +1,15 @@
+## 2024 UPDATE
+
+![](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/M-VAVE-SMK-25-II-MIDI-Control-Keyboard-Mini-USB-Pad-25-Key-Usb-Midi-Controller.webp)
+
+## [M-VAVE SMK-25 mkII - op-z preset](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/op-z.mkcII)
+
+
+
+![](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/m-vave.png)
+
 # [M-VAVE SMK-25](https://www.amazon.com/M-WAVE-Controller-Bluetooth-Professional-Production/dp/B0B66SX286) Wireless MIDI-controller presets for [teenage engineering op-z](https://teenage.engineering/guides/op-z/midi)
 
-![](https://tsoop-ru.github.io/op-z-m-vave-smk-25-midi-preset/m-vave.png)
 
 A BLE MIDI controller and a MIDI sequencer can offer a fully wireless setup when used together. One such example is the M-VAVE SMK-25 controller, which is known for its budget-friendly price point and easy connectivity.
 
@@ -14,7 +23,7 @@ You can use the [CubeSuite iOS app](https://apps.apple.com/us/app/cubesuite/id15
 
 ## The 8 channel preset
 
-## [DOWNLOAD IT NOW](https://tsoop-ru.github.io/op-z-m-vave-smk-25-midi-preset/op-z-m-vave-8-channels.mkc)
+## [DOWNLOAD IT NOW](https://tsoop-com.github.io/op-z-m-vave-smk-25-midi-preset/op-z-m-vave-8-channels.mkc)
 
 SMK-25 has 8 easily switchable presets that encompass all the controls, including the keys. It makes it quite versatile, but it still can't cover all the 16 MIDI channels of the op-z. But it uses only 8 channels for actual sounds. And SMK-25 has 2 pages per preset, so we can cover pretty much all the sonic possibilities of the op-z.
 
